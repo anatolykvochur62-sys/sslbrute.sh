@@ -1,9 +1,11 @@
 #!/bin/sh
 
+sleep 2
+clear
+
 sleep 1
 echo "[>_] Script loading..."
 sleep 3
-clear
 echo "[>_] Hitting to $1:$2..."
 sleep 1
 echo "[>_] Warning: This script need up-to-date terminal!"
