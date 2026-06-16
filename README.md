@@ -1,7 +1,7 @@
 # sslbrute.sh
 Automated ssl-brute script available on Termux!
 # Description
-This is the first ethical hacker tool developed by "White Hat".
+This is my first ethical hacker tool!
 This script is fully automated!
 # Uses and Warning
 Uses: ./sslbrute.sh [host] [port]
